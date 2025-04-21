@@ -1,2 +1,1 @@
-laurelmitchell_notes
 So far, I've learned about a proper data cleaning and machine learning workflow. I've learned about decision trees and LLMs. I've gotten a lot better at Python!
